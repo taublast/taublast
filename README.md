@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-Feel free to [visit my homepage](https://taublast.github.io/)!
+🚀 What’s up?  
+I’m a full-stack developer working on freelance projects and mobile apps with .NET MAUI and everything .NET has to offer.
 
-<!--
-**taublast/taublast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Optimizing UI Performance  
+I replace as many default controls as possible with fast, custom-drawn alternatives to eliminate platform-specific quirks.
 
-Here are some ideas to get you started:
+🎨 Pushing DrawnUI Forward  
+This work contributes to the development of [DrawnUI for .NET MAUI](https://github.com/taublast/DrawnUi.Maui), moving toward a future where fully drawn .NET MAUI apps become the norm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Want to collaborate?
+
+* On DrawnUI? Join the [Discussions](https://github.com/taublast/DrawnUi.Maui/discussions).
+* Other inquiries? Reach out via my [homepage](https://taublast.github.io/).
+  
+🌍 I’m happy to connect in English or French!
