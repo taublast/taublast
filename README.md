@@ -6,7 +6,7 @@ I’m a full-stack freelance developer working on .NET MAUI mobile apps, web app
 🔹 Optimizing UI Performance  
 I tend to replace native controls with fast, custom-drawn alternatives, sometimes even making entire apps drawn on a single canvas.
 
-🎨 Pushing DrawnUI Forward  
+🎨 Pushing drawn approach forward  
 This work contributes to the development of [DrawnUI for .NET MAUI](https://github.com/taublast/DrawnUi.Maui), moving toward a future where fully drawn .NET MAUI apps become the norm.
 
 💡 Want to collaborate?
