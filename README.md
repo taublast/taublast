@@ -12,6 +12,6 @@ This work contributes to the development of [DrawnUI for .NET MAUI](https://gith
 💡 Want to collaborate?
 
 * On DrawnUI? Join the [Discussions](https://github.com/taublast/DrawnUi.Maui/discussions).
-* Other inquiries? Reach out via my [homepage](https://taublast.github.io/).
+* Other inquiries? Reach out via my [homepage](https://taublast.github.io/about).
   
 🌍 I’m happy to connect in English or French!
