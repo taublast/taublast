@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 🚀 What's up?  
+
 I'm Nick Kovalsky, creator of [DrawnUI for .NET MAUI](https://github.com/taublast/DrawnUi) and a full-stack freelance developer specializing in drawn .NET MAUI applications.
 
 🔹 Optimizing UI Performance  
+
 I replace native controls with fast, custom-drawn alternatives, creating entire apps drawn on a single hardware-accelerated canvas.
 
 💡 Want to collaborate?
