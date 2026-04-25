@@ -11,10 +11,10 @@ Please visit [my blog](https://taublast.github.io/) for adventures in this field
 💡 Want to collaborate?
 
 * **DrawnUI Development**: Join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
-* **Consulting & Work**: Contact via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) for drawn custom controls, enhancing/building apps with drawn approach.
+* **Contractual Work**: Contact via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) for enhancing/building apps and custom controls.
 * **Other inquiries**: Reach out via my [homepage](https://taublast.github.io/about).
   
-I'm happy to connect in English or French!
+Happy to connect in English or French!
 
 ---
 
