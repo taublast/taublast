@@ -1,18 +1,12 @@
-## Hi there 👋
+Hi, I'm Nick Kovalsky, Freelance .NET full-stack engineer specializing in end-to-end mobible apps development.
 
-🚀 What's up?  
+I tend to replace native controls with custom-drawn alternatives, creating entire apps on a single hardware-accelerated canvas.  
+[Please visit my blog](https://taublast.github.io/) for adventures in this field.  
 
-I'm Nick Kovalsky, full-stack freelance developer specializing in drawn .NET MAUI applications.
+Want to collaborate?
 
-I replace native controls with custom-drawn alternatives, creating entire apps on a single hardware-accelerated canvas.
-
-Please visit [my blog](https://taublast.github.io/) for adventures in this field.  
-
-💡 Want to collaborate?
-
-* **DrawnUI Development**: Join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
-* **Contractual Work**: Contact via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) for enhancing/building apps and custom controls.
-* **Other inquiries**: Reach out via my [homepage](https://taublast.github.io/about).
+* **Contractual work**: contact via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) for enhancing/building apps and custom controls.
+* **DrawnUI development**: join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
   
 Happy to connect in English or French!
 
@@ -62,7 +56,7 @@ Happy to connect in English or French!
 
 </div>
 
-### Games with .Net MAUI
+### Create Games with .Net MAUI!
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
