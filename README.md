@@ -1,18 +1,17 @@
-Hi, I'm Nick Kovalsky, Freelance .NET full-stack engineer specializing in end-to-end mobible apps development.
+Hi, I'm Nick Kovalsky, .NET developer specializing in cross-platform apps where standard controls aren't enough.
 
-I tend to replace native controls with custom-drawn alternatives, creating entire apps on a single hardware-accelerated canvas.  
-[Please visit my blog](https://taublast.github.io/) for adventures in this field.  
+[Please visit my blog](https://taublast.github.io/) for explorations in this field.  
 
 Want to collaborate?
 
-* **Contractual work**: contact via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) for enhancing/building apps and custom controls.
+* **Contractual work**: contact via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/).
 * **DrawnUI development**: join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
   
-Happy to connect in English or French!
+Happy to connect in English or French.
 
 ---
 
-### DrawnUI for .NET MAUI powered by SkiaSharp
+### DrawnUI powered by SkiaSharp
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
@@ -34,7 +33,7 @@ Happy to connect in English or French!
 
 </div>
 
-### Camera Feed Processing
+### Camera Processing / AI
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
