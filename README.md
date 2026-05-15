@@ -55,7 +55,7 @@ Happy to connect in English or French.
 
 </div>
 
-### Create Games with .Net MAUI!
+### Create Games with .Net MAUI and Blazor!
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
