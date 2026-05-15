@@ -73,7 +73,7 @@ Happy to connect in English or French.
 
 </div>
 
-### .NET MAUI Plugins and Helpers
+### .NET Plugins and Helpers
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
@@ -85,8 +85,8 @@ Happy to connect in English or French.
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=LightNavigation&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
-   <a href="https://github.com/taublast/AppoMobi.Maui.Gestures" style="flex:1 1 320px; max-width:420px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=AppoMobi.Maui.Gestures&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+   <a href="https://github.com/taublast/AppoMobi.Gestures" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=AppoMobi.Gestures&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
   <a href="https://github.com/taublast/Plugin.Maui.ApplePlatform" style="flex:1 1 320px; max-width:420px;">
