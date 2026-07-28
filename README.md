@@ -1,4 +1,6 @@
-Hi, I'm Nick Kovalsky, .NET developer specializing in cross-platform apps where standard controls aren't enough.
+Hi, I'm Nick Kovalsky, .NET freelance developer specializing in cross-platform apps where standard controls aren't enough.
+
+OPEN FOR WORK
 
 [Please visit my blog](https://taublast.github.io/) for explorations in this field.  
 
@@ -8,6 +10,8 @@ Want to collaborate?
 * **DrawnUI development**: join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
   
 Happy to connect in English or French.
+
+Currently located in Novi Sad, Serbia, ping me via linkedin if you wanna catch up.
 
 ---
 
