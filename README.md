@@ -7,7 +7,7 @@ Hi, I'm Nick Kovalsky, .NET freelance developer specializing in pixel-perfect cr
   
 Happy to connect in English or French.
 
-Novi Sad, Serbia, [poke](https://www.linkedin.com/in/nick-kovalsky-92a770174/) to catch up.
+Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nick-kovalsky-92a770174/) to catch up!
 
 ---
 
