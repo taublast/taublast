@@ -1,4 +1,4 @@
-Hi, I'm Nick Kovalsky, .NET freelance developer specializing in pixel-perfect cross-platform apps.
+Hi, I'm Nick Kovalsky, .NET developer specializing in pixel-perfect and challenging cross-platform apps.
 
 [Please visit my website](https://taublast.github.io/) for explorations in this field and full contacts.  
 
