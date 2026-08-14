@@ -5,7 +5,7 @@ Hi, I'm Nick Kovalsky, .NET freelance developer specializing in pixel-perfect cr
 * **Need a mobile or a desktop app?** ping via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/).
 * **DrawnUI development**: join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
   
-Happy to connect in English or French.
+Happy to connect in English, French or Russian.
 
 Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nick-kovalsky-92a770174/) to catch up!
 
