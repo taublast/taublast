@@ -1,6 +1,6 @@
-Hi, I'm Nick Kovalsky, .NET developer specializing in pixel-perfect and challenging cross-platform apps.
+Hi, I'm Nick Kovalsky, .NET developer specializing in pixel-perfect and challenging cross-platform apps, creator and maintainer of [DrawnUI](https://drawnui.net).
 
-[Visit my website](https://taublast.github.io/) for explorations in this field and full contacts.  
+[Visit my website](https://taublast.github.io/) for explorations in this field and full contacts. 
 
 * **Need a mobile or a desktop app?** ping via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/).
 * **DrawnUI development**: join the [Discussions](https://github.com/taublast/DrawnUi/discussions).
