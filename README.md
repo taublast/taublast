@@ -2,11 +2,11 @@ Hi, I'm Nick Kovalsky, .NET developer specializing in pixel-perfect and challeng
 
 [Visit my website](https://taublast.github.io/) for explorations in this field and full contacts. 
 
-Available for commercial work: full mobile and desktop app development, custom controls, performance and rendering work, Xamarin → MAUI migrations, and support contracts. Get in touch via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) or taublast(at)gmail.com.
+Available for commercial work: full mobile and desktop app development, custom controls, performance and rendering work, Xamarin → MAUI migrations, and support contracts. Get in touch via [LinkedIn](https://www.linkedin.com/in/nickkovalsky/) or taublast(at)gmail.com.
 
 Happy to connect in English, French or Russian.
 
-Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nick-kovalsky-92a770174/) to catch up!
+Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 ---
 
@@ -28,6 +28,18 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nick-kovalsky-92a770174/) t
 
   <a href="https://github.com/taublast/SurfAppCompareDrawn" style="flex:1 1 320px; max-width:420px;">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=SurfAppCompareDrawn&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+
+  <a href="https://github.com/DrawnUi/DrawnUi.React" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DrawnUi&repo=DrawnUi.React&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+
+  <a href="https://github.com/taublast/DrawnChatList" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=DrawnChatList&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+
+  <a href="https://github.com/taublast/DrawnCells" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=DrawnCells&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
 </div>
