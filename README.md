@@ -2,8 +2,8 @@ Hi, I'm Nick Kovalsky, .NET developer specializing in pixel-perfect and challeng
 
 [Visit my website](https://taublast.github.io/) for explorations in this field and full contacts. 
 
-Available for contract work on .NET MAUI, Xamarin migrations and custom rendering — [get in touch via LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/).
-  
+Available for commercial work: full mobile and desktop app development, custom controls, performance and rendering work, Xamarin → MAUI migrations, and support contracts. Get in touch via [LinkedIn](https://www.linkedin.com/in/nick-kovalsky-92a770174/) or taublast(at)gmail.com.
+
 Happy to connect in English, French or Russian.
 
 Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nick-kovalsky-92a770174/) to catch up!
