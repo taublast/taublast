@@ -15,8 +15,8 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
-  <a href="https://github.com/taublast/DrawnUi" style="flex:1 1 320px; max-width:420px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=DrawnUi&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  <a href="https://github.com/DrawnUi/DrawnUi.Net" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DrawnUi&repo=DrawnUi.Net&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
   <a href="https://github.com/taublast/DrawnUi.Maui.Demo" style="flex:1 1 320px; max-width:420px;">
@@ -43,18 +43,35 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 ### DrawnUI for React
 
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
   <a href="https://github.com/DrawnUi/DrawnUi.React" style="flex:1 1 320px; max-width:420px;">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DrawnUi&repo=DrawnUi.React&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
+</div>
+
+
+### DrawnUI for Rust
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
+
+  <a href="https://github.com/DrawnUi/DrawnUi.Rust" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DrawnUi&repo=DrawnUi.Rust&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+
+  <a href="https://github.com/taublast/AgentSignals" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=AgentSignals&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+
+</div>
 
 ### Camera Processing / AI
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
-  <a href="https://github.com/taublast/DrawnUi.Maui.Camera" style="flex:1 1 320px; max-width:420px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=DrawnUi.Maui.Camera&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  <a href="https://github.com/taublast/DrawnUi.Camera" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=DrawnUi.Camera&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
    <a href="https://github.com/taublast/ShadersCamera" style="flex:1 1 320px; max-width:420px;">
@@ -75,12 +92,16 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
+  <a href="https://github.com/DrawnUi/DrawnUi.Dungeon.Net" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DrawnUi&repo=DrawnUi.Dungeon.Net&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+
   <a href="https://github.com/taublast/Doom.Mobile" style="flex:1 1 320px; max-width:420px;">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=Doom.Mobile&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
-  <a href="https://github.com/taublast/Maui.Game.SpaceShooter" style="flex:1 1 320px; max-width:420px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=Maui.Game.SpaceShooter&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
+  <a href="https://github.com/taublast/SpaceShooter" style="flex:1 1 320px; max-width:420px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=taublast&repo=SpaceShooter&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&border_radius=10&description_lines_count=2" />
   </a>
 
   <a href="https://github.com/taublast/DrawnUi.Breakout" style="flex:1 1 320px; max-width:420px;">
