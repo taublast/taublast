@@ -11,6 +11,37 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 ---
 
+### .NET Plugins and Helpers
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
+
+  <a href="https://github.com/taublast/FastPopups" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-FastPopups.svg" />
+  </a>
+
+   <a href="https://github.com/taublast/LightNavigation" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-LightNavigation.svg" />
+  </a>
+
+   <a href="https://github.com/taublast/AppoMobi.Gestures" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-AppoMobi.Gestures.svg" />
+  </a>
+
+  <a href="https://github.com/taublast/Plugin.Maui.ApplePlatform" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-Plugin.Maui.ApplePlatform.svg" />
+  </a>
+
+  <a href="https://github.com/taublast/FluentColors.Maui" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-FluentColors.Maui.svg" />
+  </a>
+
+  <a href="https://github.com/taublast/RustMaui" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-RustMaui.svg" />
+  </a>
+
+
+</div>
+
 ### DrawnUI for .NET powered by SkiaSharp
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
@@ -51,7 +82,6 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 </div>
 
-
 ### DrawnUI for Rust
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
@@ -88,13 +118,9 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 </div>
 
-### Create Games with .Net MAUI and Blazor!
+### Create Games with .Net MAUI and Blazor
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
-
-  <a href="https://github.com/DrawnUi/DrawnUi.Dungeon.Net" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/DrawnUi-DrawnUi.Dungeon.Net.svg" />
-  </a>
 
   <a href="https://github.com/taublast/Doom.Mobile" style="flex:1 1 320px; max-width:420px;">
     <img src="cards/taublast-Doom.Mobile.svg" />
@@ -108,37 +134,8 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
     <img src="cards/taublast-DrawnUi.Breakout.svg" />
   </a>
 
-</div>
-
-### .NET Plugins and Helpers
-
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
-
-  <a href="https://github.com/taublast/FastPopups" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/taublast-FastPopups.svg" />
+  <a href="https://github.com/DrawnUi/DrawnUi.Dungeon.Net" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/DrawnUi-DrawnUi.Dungeon.Net.svg" />
   </a>
-
-   <a href="https://github.com/taublast/LightNavigation" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/taublast-LightNavigation.svg" />
-  </a>
-
-   <a href="https://github.com/taublast/AppoMobi.Gestures" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/taublast-AppoMobi.Gestures.svg" />
-  </a>
-
-  <a href="https://github.com/taublast/Plugin.Maui.ApplePlatform" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/taublast-Plugin.Maui.ApplePlatform.svg" />
-  </a>
-
-  <a href="https://github.com/taublast/FluentColors.Maui" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/taublast-FluentColors.Maui.svg" />
-  </a>
-
-  <a href="https://github.com/taublast/RustMaui" style="flex:1 1 320px; max-width:420px;">
-    <img src="cards/taublast-RustMaui.svg" />
-  </a>
-
 
 </div>
-
- 
