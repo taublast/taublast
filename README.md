@@ -100,7 +100,7 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
 
 </div>
 
-### Camera Processing / AI
+### Camera
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
 
