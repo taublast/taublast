@@ -90,6 +90,10 @@ Serbia, Novi Sad, [poke](https://www.linkedin.com/in/nickkovalsky/) to catch up!
     <img src="cards/DrawnUi-DrawnUi.Rust.svg" />
   </a>
 
+  <a href="https://github.com/taublast/DrawnCPC" style="flex:1 1 320px; max-width:420px;">
+    <img src="cards/taublast-DrawnCPC.svg" />
+  </a>
+
   <a href="https://github.com/taublast/AgentSignals" style="flex:1 1 320px; max-width:420px;">
     <img src="cards/taublast-AgentSignals.svg" />
   </a>
